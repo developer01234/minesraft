@@ -328,8 +328,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bc62b5ad6a74184ea93ac5195832388, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sideX: 100
-  sideZ: 100
+  sideX: 32
+  sideZ: 32
+  terDetail: 20
+  terHeight: 20
   blocks:
   - {fileID: 7704929337962361108, guid: 25ae1b1a9ff1fcd4d928c45a448464f7, type: 3}
 --- !u!4 &1144140494
