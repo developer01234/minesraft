@@ -5,7 +5,7 @@ using TMPro;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 6f;
+    public float speed = 7f;
 
     private void Update()
     {

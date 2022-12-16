@@ -11,12 +11,12 @@ public class CameraController : MonoBehaviour
 
     public Transform Player;
 
-    void Start()
+    private void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
     }
 
-    void Update()
+    private void Update()
     {
         mouseX = Input.GetAxis("Mouse X") * sensitivityMouse * Time.deltaTime;
         mouseY = Input.GetAxis("Mouse Y") * sensitivityMouse * Time.deltaTime;

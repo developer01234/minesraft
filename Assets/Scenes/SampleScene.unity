@@ -490,13 +490,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bc62b5ad6a74184ea93ac5195832388, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 560796713886091561, guid: 7438ba61b26136041a2f564b4102aad6, type: 3}
+  player: {fileID: 1255949821138093339, guid: 7438ba61b26136041a2f564b4102aad6, type: 3}
   sizeX: 64
   sizeZ: 64
+  groundHeight: 0
   terDetail: 20
   terHeight: 20
   blocks:
   - {fileID: 7704929337962361108, guid: 25ae1b1a9ff1fcd4d928c45a448464f7, type: 3}
+  - {fileID: 1805773334306641852, guid: 06f486cca7fb0b34fb8f12463e388910, type: 3}
+  - {fileID: 4869458343495022980, guid: 62cbc5e509cb31d42b7889c0e0e85d23, type: 3}
 --- !u!4 &1144140494
 Transform:
   m_ObjectHideFlags: 0
