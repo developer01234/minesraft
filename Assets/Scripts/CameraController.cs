@@ -7,7 +7,7 @@ public class CameraController : MonoBehaviour
     private float mouseX;
     private float mouseY;
 
-    public float sensitivityMouse = 200f;
+    public float sensitivityMouse = 100f;
 
     public Transform Player;
 
